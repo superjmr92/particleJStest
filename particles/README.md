@@ -1,6 +1,7 @@
 ## particles.js
 
 He fet un canvi
+He fet 2 canvis
 ### A lightweight JavaScript library for creating particles.
 
 ------------------------------
